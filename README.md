@@ -46,7 +46,7 @@ This is a beginner-level mobile notes app built using *Flutter* as the frontend 
 ## 📸 Screenshots (Optional)
 
 Register:
-[img]https://i.imgur.com/2O2nAR8.jpeg[/img]
+https://i.imgur.com/2O2nAR8.jpeg
 Login:
 [img]https://i.imgur.com/KaelGrv.jpeg[/img]
 
