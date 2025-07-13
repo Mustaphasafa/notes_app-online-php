@@ -74,5 +74,8 @@ https://i.imgur.com/O0LwzJH.jpeg
     login.php
     signup.php
 /notes
-    notes.php
+    add.php
+    view.php
+    edit.php
+    delete.php
 /upload
