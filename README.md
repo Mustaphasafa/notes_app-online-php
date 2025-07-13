@@ -45,14 +45,23 @@ This is a beginner-level mobile notes app built using *Flutter* as the frontend 
 
 ## 📸 Screenshots (Optional)
 
-Register:
-https://i.imgur.com/2O2nAR8.jpeg
-Login:
+![register](
+https://i.imgur.com/IMwwHRz.jpeg
+)
+![login](
 https://i.imgur.com/PVoE5Bo.jpeg
+)
+![1](
+https://i.imgur.com/wiTO2nV.jpeg
+)
+![2](
+https://i.imgur.com/HclFjMA.jpeg
+)
+![3](
+https://i.imgur.com/O0LwzJH.jpeg
+)
 
-[img]https://i.imgur.com/wiTO2nV.jpeg[/img]
-[img]https://i.imgur.com/HclFjMA.jpeg[/img]
-[img]https://i.imgur.com/O0LwzJH.jpeg[/img]
+
 
 ---
 
